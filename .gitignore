@@ -1,3 +1,3 @@
 .vscode
-/boj/*.out
-/boj/*.out.dSYM
+/boj/*/*.out
+/boj/*/*.out.dSYM
